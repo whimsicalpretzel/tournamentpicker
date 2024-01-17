@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    margin: 0.5em 0;
+}
+
+.btn-container {
+    margin: 1em 0;
+}
+
+.get-tournament {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    font-size: 1.25rem;
+    background-color: rgb(47, 150, 116);
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.outcome {
+    line-height: 1.5;
+}
+
+
+#picture-link img {
+    margin: 0.5em 0;
+    max-width: 90%;
+    height: auto; 
+}
+
+#tournament-name {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
