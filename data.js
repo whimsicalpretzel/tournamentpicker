@@ -1707,10 +1707,10 @@ export const dgData = [
     {
         productionCompany: `GK Pro`,
         year: 2019,
-        tournament: `4SO`,
+        tournament: `Four States Open`,
         field: `MPO`,
         link: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9XlRjanaUd1kcyEwLo4ltys`,
-        thumbnail: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9XlRjanaUd1kcyEwLo4ltys`,
+        thumbnail: `https://i.ytimg.com/vi/S5FxfzzmA_E/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCdblhA15HCIKxOBcD98VVEUXCZxA`,
     },
     {
         productionCompany: `GK Pro`,
@@ -1766,7 +1766,7 @@ export const dgData = [
         tournament: `Ledgestone Insurance Open`,
         field: `FPO`,
         link: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9Xhsrd3zEeQxtbOqHIlYP_p`,
-        thumbnail: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9Xhsrd3zEeQxtbOqHIlYP_p`,
+        thumbnail: `https://i.ytimg.com/vi/VhAuSHZZa9Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCyRTJpP-UGVG6nwcKZTvIbgs063w`,
     },
     {
         productionCompany: `GK Pro`,
