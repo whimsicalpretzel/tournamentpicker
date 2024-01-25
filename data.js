@@ -1510,7 +1510,7 @@ export const dgData = [
         tournament: `Las Vegas Challenge`,
         field: `FPO`,
         link: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9UXBAgWfTIn5c-ItVxDJxzb`,
-        thumbnail: `https://www.youtube.com/playlist?list=PLeyLPtLudZ9UXBAgWfTIn5c-ItVxDJxzb`,
+        thumbnail: `https://i.ytimg.com/vi/JM4Nvv4Fl0Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD8KWqeYNIBE8cW89ylSAcWiVt8wg`,
     },
     {
         productionCompany: `GK Pro`,
@@ -2483,7 +2483,7 @@ export const dgData = [
     {
         productionCompany: `CCDG`,
         year: 2017,
-        tournament: `https://www.youtube.com/playlist?list=PLbnvbtJ11PvEk4jnZQtQzcbEzwYhKFQUb`,
+        tournament: `Wintertime Open`,
         field: `MPO`,
         link: `https://www.youtube.com/playlist?list=PLbnvbtJ11PvEk4jnZQtQzcbEzwYhKFQUb`,
         thumbnail: `https://i.ytimg.com/vi/-dUD-dxlOdM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkzucsQF68HFVZEVJ4pWD3c4Z9ug`,
@@ -2531,7 +2531,7 @@ export const dgData = [
     {
         productionCompany: `CCDG`,
         year: 2016,
-        tournament: `https://www.youtube.com/playlist?list=PLbnvbtJ11PvEZqAf5UwJqf1rLRFkZKLLX`,
+        tournament: `Rocky Mountain Championships`,
         field: `Rocky Mountain Championships`,
         link: `https://www.youtube.com/playlist?list=PLbnvbtJ11PvEZqAf5UwJqf1rLRFkZKLLX`,
         thumbnail: `https://i.ytimg.com/vi/_ezWFUG-vUU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCf9FvdX4USxYVpDjmWOJ8AILwzpA`,
