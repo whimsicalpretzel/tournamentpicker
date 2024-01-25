@@ -1,6 +1,7 @@
 import { dgData } from "./data.js"
 const getTournament = document.querySelector(".get-tournament")
 const displayPlaylist = document.querySelector(".outcome")
+const tournamentCount = document.getElementById("tournament-count")
 
 getTournament.addEventListener("click", getPlaylist)
 
@@ -15,3 +16,5 @@ function getPlaylist() {
         <a href="${dgData[randNum].link}" id="playlist-link" target="_blank" style="color: whitesmoke; font-size: 1.1rem;">Click here to watch!</a>
     `
 }
+
+tournamentCount.innerText = `Number of playlists available: ${dgData.length - 1}`

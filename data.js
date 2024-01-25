@@ -2058,14 +2058,6 @@ export const dgData = [
     },
     {
         productionCompany: `CCDG`,
-        year: 2022,
-        tournament: `College National Championships`,
-        field: `both Men's and Women's college teams`,
-        link: `https://www.youtube.com/playlist?list=PLbnvbtJ11PvEV66Qp3DKbB5ngRWwXUQSK`,
-        thumbnail: `https://i.ytimg.com/vi/czXtihmOM9I/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCz4Y1XilSzwldPIZZFZgkKK4zB5g`,
-    },
-    {
-        productionCompany: `CCDG`,
         year: 2021,
         tournament: `San Francisco Safari`,
         field: `MPO`,
