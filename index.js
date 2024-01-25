@@ -6,8 +6,9 @@ const tournamentCount = document.getElementById("tournament-count")
 getTournament.addEventListener("click", getPlaylist)
 
 function getPlaylist() {
-    console.log(dgData.length)
-    const randNum = Math.floor(Math.random() * dgData.length)
+    getTournament.innerText = "Get a different tournament";
+    getTournament.style.fontSize = "1.15rem";
+    const randNum = Math.floor(Math.random() * dgData.length);
     displayPlaylist.innerHTML = `
         <a href="${dgData[randNum].link}" target="_blank" id="picture-link"> <img src="${dgData[randNum].thumbnail}" alt="${dgData[randNum].year} ${dgData[randNum].tournament}"> </a>
         <p id="tournament-name">Watch the ${dgData[randNum].year} ${dgData[randNum].tournament}</p>
