@@ -10,12 +10,13 @@ main {
 }
 
 body {
-    background-color: #121212;
+    background-color: #222222;
     color: whitesmoke;
 }
 
-h1 {
-    margin: 0.5em 0;
+.intro {
+    margin: 1em;
+    font-size: 1.25rem;
 }
 
 .btn-container {
@@ -27,7 +28,7 @@ h1 {
     height: 150px;
     border-radius: 50%;
     font-size: 1.25rem;
-    background-color: rgb(47, 150, 116);
+    background-color: rgb(45, 167, 171);
     color: whitesmoke;
     border: 5px solid whitesmoke;
     font-weight: bold;
@@ -42,7 +43,7 @@ h1 {
 #picture-link img {
     margin: 0.5em 0;
     max-width: 90%;
-    height: auto; 
+    height: auto;
 }
 
 #tournament-name {
@@ -52,7 +53,6 @@ h1 {
 }
 
 .get-tournament:hover {
-    background-color: rgb(45, 167, 171);
     transform: scale(1.1);
     transition: 0.3s;
 }
